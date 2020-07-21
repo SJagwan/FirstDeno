@@ -1,4 +1,4 @@
-import { join ,BufReader,parse,log,_ } from "./../depts.ts";
+import { join ,BufReader,parse,log,_ } from "./../src/depts.ts";
 
 
 
